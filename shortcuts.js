@@ -18,5 +18,4 @@
 // ctrl + [ => remove indent from multiple
 // ctrl + p => go to file
 // ctrl + f => find instance of word in file
-
 // ctrl + g => go to specific line
